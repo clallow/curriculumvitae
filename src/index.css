@@ -1,0 +1,4 @@
+/* 使用 Tailwind CSS 的基础样式 */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
