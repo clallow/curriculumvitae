@@ -8,5 +8,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({默认导出 defineConfig({
   plugins: [react()],   插件:反应(),
-  base: '/curriculumvitae/', 
+  base: '/curriculumvitae/',
 })
