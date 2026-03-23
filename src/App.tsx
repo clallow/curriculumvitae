@@ -74,4 +74,4 @@ const App: React.FC = () => {
   );
 };
 
-export default App; //w
+export default App;
